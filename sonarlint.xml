@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://android.11stcorp.com/sonar" />
+          <option name="name" value="11st-Android" />
+          <option name="login" value="admin" />
+          <password>dfdbdfc6dfcbdfc6dfccdfdbdfc0dfd9dfcddfc2</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
