@@ -1,0 +1,14 @@
+<list display="jake">
+  <action id="AndroidConnectDebuggerAction" />
+  <action id="QuickList.$Separator$" />
+  <action id="CleanGradleProject" />
+  <action id="RebuildGradleProject" />
+  <action id="Android.SyncProject" />
+  <action id="QuickList.$Separator$" />
+  <action id="RunAnything" />
+  <action id="QuickList.$Separator$" />
+  <action id="Vcs.ShowTabbedFileHistory" />
+  <action id="Vcs.ShowHistoryForBlock" />
+  <action id="QuickList.$Separator$" />
+  <action id="SplitVertically" />
+</list>
