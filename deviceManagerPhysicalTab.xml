@@ -8,9 +8,9 @@
             <value value="R3CN50P1XT" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <name value="samsung SM-N986N" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
